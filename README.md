@@ -22,6 +22,17 @@
 
 ---
 
+_Being King of Internet doesn't mean owning the Internet, its all about freedom_
+
+### My dream Internet:
+- Everything (software, websites, chips, etc) shall be open-sourced
+- No CAPTCHAs
+- No-one can take/use any data (even public ip) of an user without user's consent. The default will be 'NO'
+- No fucking long terms and conditions with hidden motives. Companies could provide service only after their terms and condition are verified to be safe for users by certain organization.
+- Only tags or categories shall be used to display user based data. No fucking creating filter bubbles and reading user's psychology to display data to users.
+
+---
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Prabesh01&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical">
