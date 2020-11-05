@@ -6,8 +6,6 @@
 - 🌱 Full-Time Learner
 - 👯 Interests: Programming, Video Editing & Robotics
 - 🔭 I am a bug hunter
-- 🤔 OTAKU  NERD  GEEK
- 
 - 📫 https://www.prabeshsapkota.com.np/
 - 😄 All Izz Well
   
