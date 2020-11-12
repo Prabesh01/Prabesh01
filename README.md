@@ -25,9 +25,9 @@ _Being King of Internet doesn't mean owning the Internet, its all about freedom_
 ### My dream Internet:
 - Everything (software, websites, chips, etc) shall be open-sourced
 - No CAPTCHAs
-- No-one can take/use any data (even public ip) of an user without user's consent. The default will be 'NO'
+- No-one can take/use/share any data (even public ip) of an user without user's direct consent. The default will be 'NO'
 - No fucking long terms and conditions with hidden motives. Companies could provide service only after their terms and condition are verified to be safe for users by certain organization.
-- Only tags or categories shall be used to display user based data. No fucking creating filter bubbles and reading user's psychology to display data to users.
+- Only tags or categories shall be used to display user based data. No fucking creating filter bubbles and trying to read user's psychology to display user specific (personalized) data.
 
 ---
 
