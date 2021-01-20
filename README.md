@@ -32,7 +32,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <!--
 [<img alt="Become a Patron" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/prabesh) &nbsp; [<img alt="Buy me a Coffee" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/prabeshsapkota) &nbsp; [<img alt="Donate with LiberaPay" width=200 height=46 src="https://www.upload.ee/image/12358022/LiberaPay.png">](https://liberapay.com/Prabesh/)
-
+-->
 
 ---
 
