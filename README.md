@@ -20,17 +20,6 @@
 
 ---
 
-_Being King of Internet doesn't mean owning the Internet, its all about freedom_
-
-### My dream Internet:
-- Everything (software, websites, chips, etc) shall be open-sourced
-- No CAPTCHAs
-- No-one can take/use/share any data (even public ip) of an user without user's direct consent. The default will be 'NO'
-- No fucking long terms and conditions with hidden motives. Companies could provide service only after their terms and condition are verified to be safe for users by certain organization.
-- Only tags or categories shall be used to display user based data. No fucking creating filter bubbles and trying to read user's psychology to display user specific (personalized) data.
-
----
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Prabesh01&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical">
@@ -41,7 +30,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-
+<!--
 [<img alt="Become a Patron" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/prabesh) &nbsp; [<img alt="Buy me a Coffee" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/prabeshsapkota) &nbsp; [<img alt="Donate with LiberaPay" width=200 height=46 src="https://www.upload.ee/image/12358022/LiberaPay.png">](https://liberapay.com/Prabesh/)
 
 
