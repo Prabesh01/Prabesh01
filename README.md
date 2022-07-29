@@ -22,10 +22,12 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Prabesh01&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Prabesh01&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Prabesh01&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Prabesh01&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=Prabesh01&theme=dark&show_icons=true">
+<img align="center" alt="Prabesh01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prabesh01&theme=dark&show_icons=true" /></a>
+  <br />
+  <br />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh01&layout=compact&theme=dark">
+  <img align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh01&layout=compact&theme=dark" />
 </a>
 
 ---
