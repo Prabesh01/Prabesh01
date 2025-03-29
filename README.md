@@ -1,13 +1,13 @@
 # Hi there 👋
+I am a cyber security enthusiast from Parbat, Nepal. Currently studying Bachelors in Information Technology, I love admistrating linux systems and automating stuffs with bash and python.
 
-## ⚡ I am the one to be the king of Internet
-
+I usually work solo. So I wish to join developers' community because I want to learn to build projects in systematic approach in a team. I always have so many ideas to build, and through this community i can get a chance to build them with my college mates. 
 
 - 🌱 Full-Time Learner
 - 👯 Interests: Programming, Video Editing & Robotics
-- 🔭 I am a bug hunter
+- 🔭 I am a bug hunter.
+- 😄 Skills: Web/APP Penetration Testing, Linux Administration, Python, Django, PHP
 - 📫 https://www.prabeshsapkota.com.np/
-- 😄 All Izz Well
   
 ### Connect with me:
 
